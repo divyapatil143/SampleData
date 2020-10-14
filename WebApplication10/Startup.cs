@@ -13,6 +13,7 @@ namespace WebApplication10
 {
     public class Startup
     {
+        //changes
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
